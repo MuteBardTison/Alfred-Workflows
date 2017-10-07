@@ -1,5 +1,5 @@
 # Alfred-Workflows
-My Alfred Workflows
+My Alfred Workflows, supporting [Alfred 3](https://www.alfredapp.com)
 
 ## v2ex
 
