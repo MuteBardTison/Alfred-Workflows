@@ -19,7 +19,7 @@
 
   to Change directory (cd) to current opening folder directory in Terminal
 
-  if none is open, then change directory to home directory (/Users/XXX)
+  if none is open, then change to home directory (/Users/XXX)
 
 - Use "t [shell command]" (space after "t")
 
