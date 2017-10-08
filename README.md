@@ -30,7 +30,6 @@ My Alfred Workflows, support [Alfred 3](https://www.alfredapp.com)
   otherwise open a new window
   
 <img width="560" alt="screen shot 2017-10-08 at 6 02 19 am" src="https://user-images.githubusercontent.com/25029380/31313833-2f68ff98-abef-11e7-8a5d-e0c7c0396089.png">
-  
 <img width="560" alt="screen shot 2017-10-08 at 6 02 36 am" src="https://user-images.githubusercontent.com/25029380/31313829-186b3fae-abef-11e7-91a7-da388327ab76.png">
 
 ## License
