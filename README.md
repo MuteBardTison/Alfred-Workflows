@@ -17,7 +17,7 @@
 
   - Use keyword "t"
 
-    to Change directory (cd) to current opening folder directory in Terminal
+    to Change directory (cd) in Terminal to the current opening folder directory in Finder
 
     if none is open, then change to home directory (/Users/XXX)
 
