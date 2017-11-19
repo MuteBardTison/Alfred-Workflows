@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.cdcommand.com</string>
+	<string>com.cdandcommand.com</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
 	<dict>
-		<key>02D2DC1A-5937-48A4-AD11-58BB8D89F3B3</key>
+		<key>30F90925-B515-479F-AA10-8BF9635DFEA2</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>7AFCE096-2DB3-44B4-A842-C00DFC25C39D</string>
+				<string>C3F48D89-62F3-4851-9BF1-05DCE55056CC</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -29,7 +29,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>cd recent finder path in terminal or run command</string>
+	<string>cd&amp;command</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -40,7 +40,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>osascript cdto_command.applescript "{query}"</string>
+				<string>osascript cdcommand.applescript "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -51,7 +51,7 @@
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>7AFCE096-2DB3-44B4-A842-C00DFC25C39D</string>
+			<string>C3F48D89-62F3-4851-9BF1-05DCE55056CC</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -72,7 +72,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>02D2DC1A-5937-48A4-AD11-58BB8D89F3B3</string>
+			<string>30F90925-B515-479F-AA10-8BF9635DFEA2</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -81,19 +81,19 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>02D2DC1A-5937-48A4-AD11-58BB8D89F3B3</key>
+		<key>30F90925-B515-479F-AA10-8BF9635DFEA2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>200</integer>
+			<integer>180</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>70</integer>
 		</dict>
-		<key>7AFCE096-2DB3-44B4-A842-C00DFC25C39D</key>
+		<key>C3F48D89-62F3-4851-9BF1-05DCE55056CC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>510</integer>
+			<integer>440</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>70</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
