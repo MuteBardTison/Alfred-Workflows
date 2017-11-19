@@ -1,5 +1,7 @@
 # Alfred-Workflows
   My Alfred Workflows, support [Alfred 3](https://www.alfredapp.com)
+  
+  If you're facing Incompatible Python problem, please download [alfred-fixum](https://github.com/deanishe/alfred-fixum) and follow instructions 
 
 ## v2ex
 
